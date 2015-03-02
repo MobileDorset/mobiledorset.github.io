@@ -1,0 +1,185 @@
+html,
+body {
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background-color: #002831;
+	color: #FFF;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-default {
+	background-color: transparent;
+	border-bottom: 0px;
+	margin: 0px;
+	position: absolute;
+	width: 100%;
+	font-size: 18px;
+}
+
+.navbar-right {
+	font-size: 14px;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #FFF;
+}
+
+.navbar-default .navbar-right.navbar-nav>li>a {
+	color: #F9B32A;
+}
+
+.navbar-default .navbar-toggle {
+	border-color: #F9B32A;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: #F9B32A;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+	background-color: transparent;
+}
+
+header {
+	min-height: 80%;
+	background-image:url('../images/header-bg.jpg');
+	background-size: cover;
+	background-position: bottom center;
+	background-repeat: no-repeat;
+	overflow: auto;
+}
+
+header h1 {
+	text-align: center;
+}
+
+header h1 span {
+	display: none;
+}
+
+header h1 img {
+	width: 80%;
+	max-width: 714px;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+header h2 {
+	text-align: center;
+	font-weight: 300;
+	font-size: 36px;
+}
+
+section {
+	padding-top: 60px;
+	padding-bottom: 60px;
+}
+
+section h1 {
+	text-align: center;
+	font-weight: 300;
+	font-size: 48px;
+}
+
+section h1 small {
+	font-size: 24px;
+	color: #FFF;
+	margin-top: 0px;
+	margin-bottom: 40px;
+	display: block;
+}
+
+section h2 {
+	text-align: center;
+	font-weight: 300;
+}
+
+section h3 {
+	color: #FAB300;
+}
+
+section p {
+	font-size: 18px;
+	font-weight: 300;
+}
+
+.hiw img {
+	width: 100%;
+	max-width: 220px;
+	display: block;
+	margin: auto;
+}
+
+.call {
+	background-color: #FAB300;
+	background-image: url('../images/call-bg.jpg');
+	background-size: cover;
+
+}
+
+.btn-default {
+	border: 2px solid #FFF;
+	background-color: #F27601;
+	color: #FFF;
+	font-size: 36px;
+	font-weight: 300;
+	border-radius: 10px;
+	-webkit-transition: all 0.2s ease-in-out;
+	padding: 15px;
+}
+
+.btn-default:hover {
+	background-color: #F48D01;
+	border-color: #FFF;
+	color: #FFF;
+}
+
+.btn-blue {
+	background-color: #022830;
+}
+
+.logo-eventbrite {
+	width: 148px;
+	height: 46px;
+	display: inline-block;
+	background-image: url('../images/logo-eventbrite@2x.png');
+	background-size: 100%;
+	float: left;
+}
+
+footer {
+	padding-bottom: 60px;
+}
+
+footer .logo {
+	margin-top: 40px;
+	opacity: 0.5;
+}
+
+footer .detail {
+	opacity: 0.5;
+	text-align: center;
+	margin-top: 40px;
+}
+
+@media (max-width:767px){
+	
+	.btn-default {
+		font-size: 16px;
+	}	
+	
+	.logo-eventbrite {
+		width: 60px;
+		height: 18px;
+		background-repeat: no-repeat;
+	}
+	
+	.navbar-default .navbar-collapse {
+		background-color: #002831;
+	}
+
+}
