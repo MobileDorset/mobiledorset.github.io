@@ -189,5 +189,9 @@ footer .detail {
 	.navbar-default .navbar-collapse {
 		background-color: #002831;
 	}
+	
+	header .sponsors span {
+		display: none;
+	}
 
 }
