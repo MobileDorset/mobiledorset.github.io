@@ -36,6 +36,10 @@ body {
 	color: #F9B32A;
 }
 
+.navbar-default .navbar-right.navbar-nav>li>a:hover {
+	color: #FFF;
+}
+
 .navbar-default .navbar-toggle {
 	border-color: #F9B32A;
 }
