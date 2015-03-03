@@ -28,6 +28,10 @@ body {
 	color: #FFF;
 }
 
+.navbar-default .navbar-nav>li>a:hover {
+	color: #F9B32A;
+}
+
 .navbar-default .navbar-right.navbar-nav>li>a {
 	color: #F9B32A;
 }
