@@ -28,8 +28,16 @@ body {
 	color: #FFF;
 }
 
+.navbar-default .navbar-nav>li>a:hover {
+	color: #F9B32A;
+}
+
 .navbar-default .navbar-right.navbar-nav>li>a {
 	color: #F9B32A;
+}
+
+.navbar-default .navbar-right.navbar-nav>li>a:hover {
+	color: #FFF;
 }
 
 .navbar-default .navbar-toggle {
@@ -65,13 +73,22 @@ header h1 img {
 	width: 80%;
 	max-width: 714px;
 	margin-top: 10%;
-	margin-bottom: 10%;
+	margin-bottom: 4%;
 }
 
 header h2 {
 	text-align: center;
 	font-weight: 300;
 	font-size: 36px;
+}
+
+header .sponsors {
+	text-align: center;
+	margin-bottom: 4%;
+}
+
+header .sponsors img {
+	margin-left: 10px;
 }
 
 section {
@@ -180,6 +197,10 @@ footer .detail {
 	
 	.navbar-default .navbar-collapse {
 		background-color: #002831;
+	}
+	
+	header .sponsors span {
+		display: none;
 	}
 
 }
