@@ -1,17 +1,21 @@
 ---
 layout: default
 ---
-<div class="container">
-    <section>
-        {% for post in site.posts %}
-        <li>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-            <h2>
-                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-            </h2>
-        </li>
-        {% endfor %}
-        </ul>
-        <p>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a></p>
-    </section>
-</div>
+<section>
+	<div class="container">
+        <div class="row">
+            <div class="col-md-12">
+        		{% for post in site.posts %}
+        			<div class="post-listing">
+			            <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+            			<div class="post-contents">
+            				{{ post.excerpt }}
+    	        			<p class="post-meta">Posted on {{ post.date | date: "%-d %b %Y" }}{% if post.author %} by {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
+    	        		</div>
+					</div>
+        		{% endfor %}
+        	<p>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a></p>
+            </div>
+        </div>
+	</div>
+</section>

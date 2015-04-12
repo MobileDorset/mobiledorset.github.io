@@ -138,6 +138,46 @@ section p {
 
 }
 
+.post-listing {
+	margin-bottom: 4%;
+}
+
+.post-listing h2, .post-listing h2 a {
+	text-align: left;
+	color: #FAB300;
+}
+
+.post-contents {
+	padding: 0 0 0 20px;
+}
+
+.post-title {
+	text-align: left;
+	color: #FAB300;
+}
+
+.post-meta {
+	margin-bottom: 2%;
+	font-size: 14px;
+}
+
+.post-content * {
+	text-align: left;
+}
+
+.post-content h1, .post-content h2, .post-content h3, .post-content h4 {
+	color: #FAB300;
+}
+
+.post-content h1 {
+	font-size: 36px;
+}
+
+.post-content li, .post-content p {
+	font-size: 18px;
+	font-weight: 300;
+}
+
 .btn-default {
 	border: 2px solid #FFF;
 	background-color: #F27601;
