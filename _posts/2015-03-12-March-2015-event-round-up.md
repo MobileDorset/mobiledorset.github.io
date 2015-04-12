@@ -3,6 +3,8 @@ layout: post
 title: March 2015 event - Round up
 author: Mobile Dorset
 ---
+March marked our first event with our new format, sponsors and pizza, which seemed to draw in quite a crowd.
+
 # Main event
 - Introduction, what is mobile dorset including rapid fire introductions of everyone attending - [(Alec Holmes)](https://twitter.com/alecholmes)
 - Guess the emoji™ - [(Phillip Caudell)](https://twitter.com/phillipcaudell)
