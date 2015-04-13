@@ -20,3 +20,15 @@ Finally a big thank you to our sponsors [3SidedCube](https://3sidedcube.com/){:t
 	- Source control management
 	- Design of apps
 - Building and marketing [NowThen app](http://www.nowthenapp.com/) with no budget and with little experience in mobile development - [@r_bake_r](https://twitter.com/r_bake_r){:target="_blank"}
+
+# Photos and comments
+<div id="fb-root"></div>
+<script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.961064793917738.1073741829.934423343248550&amp;type=1" data-width="500">
+   <div class="fb-xfbml-parse-ignore">
+      <blockquote cite="https://www.facebook.com/media/set/?set=a.961064793917738.1073741829.934423343248550&amp;type=1">
+         <p>Great turn out and lively debate!</p>
+         Posted by <a href="https://www.facebook.com/MobileDorset">Mobile Dorset</a> on <a href="https://www.facebook.com/media/set/?set=a.961064793917738.1073741829.934423343248550&amp;type=1">Monday, April 13, 2015</a>
+      </blockquote>
+   </div>
+</div>
