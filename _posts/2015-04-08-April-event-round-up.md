@@ -3,7 +3,7 @@ layout: post
 title: April 2015 event - Round up
 author: Mobile Dorset
 ---
-Another month in mobile has flown by and our April event was jam packed with content and discussion points. We heard about everything from the new age rating system on Google Play to the wonders of Apple Watch development from [3SidedCube](https://3sidedcube.com/){:target="_blank"}.
+Another month in mobile has flown by and our April event was jam packed with content and discussion points. We heard about everything from the new age rating system on Google Play to the wonders of Apple Watch development.
 
 Don't forget you can give us feedback to [@MobileDorset](https://twitter.com/MobileDorset){:target="_blank"} and let us know what you'd like to see.
 
@@ -27,7 +27,7 @@ Finally a big thank you to our sponsors [3SidedCube](https://3sidedcube.com/){:t
 <div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.961064793917738.1073741829.934423343248550&amp;type=1" data-width="500">
    <div class="fb-xfbml-parse-ignore">
       <blockquote cite="https://www.facebook.com/media/set/?set=a.961064793917738.1073741829.934423343248550&amp;type=1">
-         <p>Great turn out and lively debtate!</p>
+         <p>Great turn out and lively debate!</p>
          Posted by <a href="https://www.facebook.com/MobileDorset">Mobile Dorset</a> on <a href="https://www.facebook.com/media/set/?set=a.961064793917738.1073741829.934423343248550&amp;type=1">Monday, April 13, 2015</a>
       </blockquote>
    </div>
