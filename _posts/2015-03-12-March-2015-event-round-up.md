@@ -54,3 +54,6 @@ March marked our first event with our new format, sponsors and pizza, which seem
 - TDD / BDD
     - Red, green, refactor
     - Cucumber
+
+# Photos and comments
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/media/set/?set=a.947991548558396.1073741828.934423343248550&amp;type=1" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/media/set/?set=a.947991548558396.1073741828.934423343248550&amp;type=1">Posted by <a href="https://www.facebook.com/MobileDorset">Mobile Dorset</a> on <a href="https://www.facebook.com/media/set/?set=a.947991548558396.1073741828.934423343248550&amp;type=1">Thursday, March 19, 2015</a></blockquote></div></div>
