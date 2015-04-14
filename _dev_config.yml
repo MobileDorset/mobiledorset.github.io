@@ -1,0 +1,10 @@
+# Site settings
+title: Mobile Dorset - A gathering of mobile developers
+email: your-email@domain.com
+description: >
+  Mobile Dorset is an informal gathering of mobile developers, designers and anyone with a passion for mobile in Dorset.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:4000" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
