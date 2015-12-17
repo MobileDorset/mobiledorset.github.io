@@ -14,14 +14,16 @@ Then, once the pizza had been devoured, we  continued with a ['lean coffee'](htt
 
 ### Pomodoro Technique
 - A couple of people had had great success managing their time using the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique){:target="_blank"} - doing a task for 25 mins and then having a short break before starting again.
-- People found it useful as a tool for both prioritisation and estimating
-- Some people noted that to be successful, shielding from distractions during a pomodoro is important.
-- But, it was asked - can it affect 'flow'?  And can some company cultures support it?
+- One tip was to have a pomodoro at the start of the day to plan the pomodoro for the rest of the day.
+- Additionally, people found it useful as a tool for both prioritisation and estimating.
+- But some people noted that to be successful, shielding from distractions during a pomodoro is important.
+- And, it was asked, can it affect 'flow'?  And can some company cultures support it?
 
 ### App Store Rating
 - Question raised about how useful the ratings are for the success of an app.
 - How damaging to the brand and the developer is a 1 star review, and how do you respond?
 - Some people use reviews to vent in the absence of other avenues - we considered how to divert that frustration to more suitable channels.
+- Finally, we discussed how to mitigate users leaving bad feedback by interception tactics.
 
 ### Continuous Design
 - How can the #nopsd movement and continuous design ideas from web design apply to mobile app development?
