@@ -10,10 +10,10 @@ To start, we launched a new section offering the chance for people to demo / sho
 
 And don't forget - if you've got a talk to give, or a topic you want to hear about, whether it's a people, product or a process based mobile interest then do let us know to get scheduled at a future event.
 
-Then, once the pizza had been devoured, we  continued with a ['lean coffee'](https://www.google.co.uk/search?q=lean+coffee) approach to the discussion, allowing everyone to suggest topic ideas and then we vote on the ones to talk about.  This week we spoke about:
+Then, once the pizza had been devoured, we  continued with a ['lean coffee'](https://www.google.co.uk/search?q=lean+coffee){:target="_blank"} approach to the discussion, allowing everyone to suggest topic ideas and then we vote on the ones to talk about.  This week we spoke about:
 
 ### Pomodoro Technique
-- A couple of people had had great success managing their time using the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) - doing a task for 25 mins and then having a short break before starting again.
+- A couple of people had had great success managing their time using the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique){:target="_blank"} - doing a task for 25 mins and then having a short break before starting again.
 - People found it useful as a tool for both prioritisation and estimating
 - Some people noted that to be successful, shielding from distractions during a pomodoro is important.
 - But, it was asked - can it affect 'flow'?  And can some company cultures support it?
@@ -35,7 +35,7 @@ Then, once the pizza had been devoured, we  continued with a ['lean coffee'](htt
 - Some people had good experience with 'Instant Run' which allows for the ability to change code in the app while running on the device during development.
 
 ### React-Native
-- Quick discussion on whether anyone had used [React Native](https://facebook.github.io/react-native/) and what they thought of it.
+- Quick discussion on whether anyone had used [React Native](https://facebook.github.io/react-native/){:target="_blank"} and what they thought of it.
 - React Native allows you to use JavaScript code to define the experience and have it compiled to native controls.
 - Not much use so far - suggestion for a demo in a future Mobile Dorset.
 
@@ -44,24 +44,22 @@ Then, once the pizza had been devoured, we  continued with a ['lean coffee'](htt
 ### Sources of Information
 - Quickly went round the room to see where people learnt about new things in mobile.
 - Some of the sources that came up:
--- [iOS Dev Weekly](https://iosdevweekly.com)
--- [Javascript Weekly](http://javascriptweekly.com)
--- [Android Weekly](http://androidweekly.net)
--- [Android Dev Digest](http://www.androiddevdigest.com)
--- [/r/androiddev](https://www.reddit.com/r/androiddev/) and [/r/android](https://www.reddit.com/r/android/) on Reddit
--- [AppBrain](http://www.appbrain.com)
--- [Android Arsenal](android aresenal)
--- [Cocoa Controls](https://www.cocoacontrols.com)
--- [CocoaPods](https://cocoapods.org)
--- [Fragmented Podcast](http://fragmentedpodcast.com)
--- [Android Dev Backstage](http://androidbackstage.blogspot.co.uk)
--- [iOS Times](http://theiostimes.com)
--- [Benedict Evans](http://ben-evans.com)
+  - [iOS Dev Weekly](https://iosdevweekly.com){:target="_blank"}
+  - [Javascript Weekly](http://javascriptweekly.com){:target="_blank"}
+  - [Android Weekly](http://androidweekly.net){:target="_blank"}
+  - [Android Dev Digest](http://www.androiddevdigest.com){:target="_blank"}
+  - [/r/androiddev](https://www.reddit.com/r/androiddev/){:target="_blank"} and [/r/android](https://www.reddit.com/r/android/){:target="_blank"} on Reddit
+  - [AppBrain](http://www.appbrain.com){:target="_blank"}
+  - [Android Arsenal](https://android-arsenal.com){:target="_blank"}
+  - [Cocoa Controls](https://www.cocoacontrols.com){:target="_blank"}
+  - [CocoaPods](https://cocoapods.org){:target="_blank"}
+  - [Fragmented Podcast](http://fragmentedpodcast.com){:target="_blank"}
+  - [Android Dev Backstage](http://androidbackstage.blogspot.co.uk){:target="_blank"}
+  - [iOS Times](http://theiostimes.com){:target="_blank"}
+  - [Benedict Evans](http://ben-evans.com){:target="_blank"}
 - We're going to look at adding these resources to a page on this site for future reference!
 
-<br/>
-<br/>
-
+### And then
 
 At this point we went to the pub, leaving behind a few topics that we didn't manage to get to:
 
@@ -74,8 +72,7 @@ At this point we went to the pub, leaving behind a few topics that we didn't man
 
 Maybe next time.  :-)
 
-<br/>
-<br/>
+### Next Week
 
 Do you have some interesting thoughts on the above topics?  Maybe you would have liked the ones that were missed to have been delved into?  Or maybe you have got other topics you want to talk about with like minded mobile developers?  Then come along to the next Mobile Dorset on 13th January 2016!
 
