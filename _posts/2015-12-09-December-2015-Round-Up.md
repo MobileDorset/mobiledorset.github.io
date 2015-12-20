@@ -69,7 +69,7 @@ At this point we went to the pub, leaving behind a few topics that we didn't man
 - MixPanel and A/B split testing
 - Swift being open sourced
 - What are good Android frameworks?
-- Are wearables actually useful
+- Are wearables actually useful?
 - Anyone done anything cool?
 
 Maybe next time.  :-)
