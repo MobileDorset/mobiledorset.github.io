@@ -53,7 +53,6 @@ body {
 }
 
 header {
-	min-height: 80%;
 	background-image:url('../images/header-bg.jpg');
 	background-size: cover;
 	background-position: bottom center;
@@ -224,21 +223,21 @@ footer .detail {
 }
 
 @media (max-width:767px){
-	
+
 	.btn-default {
 		font-size: 16px;
-	}	
-	
+	}
+
 	.logo-eventbrite {
 		width: 60px;
 		height: 18px;
 		background-repeat: no-repeat;
 	}
-	
+
 	.navbar-default .navbar-collapse {
 		background-color: #002831;
 	}
-	
+
 	header .sponsors span {
 		display: none;
 	}
