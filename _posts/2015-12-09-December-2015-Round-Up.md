@@ -10,7 +10,7 @@ To start, we launched a new section offering the chance for people to demo / sho
 
 And don't forget - if you've got a talk to give, or a topic you want to hear about, whether it's a people, product or a process based mobile interest then do let us know to get scheduled at a future event.
 
-Then, once the pizza had been devoured, we  continued with a ['lean coffee'](https://www.google.co.uk/search?q=lean+coffee){:target="_blank"} approach to the discussion, allowing everyone to suggest topic ideas and then we vote on the ones to talk about.  This week we spoke about:
+Then, once the pizza had been devoured, we continued with a ['lean coffee'](https://www.google.co.uk/search?q=lean+coffee){:target="_blank"} approach to the discussion, allowing everyone to suggest topic ideas and then we vote on the ones to talk about.  This week we spoke about:
 
 ### Pomodoro Technique
 - A couple of people had had great success managing their time using the [pomodoro technique](https://en.wikipedia.org/wiki/Pomodoro_Technique){:target="_blank"} - doing a task for 25 mins and then having a short break before starting again.
