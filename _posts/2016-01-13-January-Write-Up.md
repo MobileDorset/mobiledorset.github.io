@@ -10,14 +10,14 @@ First though, we were treated to a little surprise as [@alecholmes](https://twit
 
 After that excitement we went straight into our [lean coffee](https://www.google.co.uk/search?q=lean+coffee){:target="_blank"} discussion, this week covering:
 
-###Accessibility
+### Accessibility
 - How do people who don't need accessibility features go about testing that they have implemented the right accessibility features?
 - A few people admitted that they just don't do it.
 - Others argued that it was about demographics - understanding the needs of your users and factoring that into task prioritisation.
 - But, should it be a task or should every task be completed with appropriate accessibility?  Or are there some diminishing returns with that approach?
 - In any case, the best strategy to test is with real users who need that feature.
 
-###Steps to build an Android / iOS App
+### Steps to build an Android / iOS App
 - There were some newcomers this week who don't have a background in apps or software and asked 'how do you build an app?'
 - General feedback was to be sure of the business plan and idea before starting to code.
 - First question was to ask how well formed the idea was.  Is there a prototype?  A roadmap? How well understood is the idea to be able to direct a team to build it?  Need some definition up front.
@@ -25,20 +25,20 @@ After that excitement we went straight into our [lean coffee](https://www.google
 - And of course, before investing in a 'big build' look to MVP techniques to validate the ideas.  Don't make assumptions, and don't blindly trust what your investors tell you - learn from the users.
 - And of course, if the business plan is more than an app and includes some other service, maybe take a second to decide if building an app is a distinctive competence of your team?  It's not a trivial journey, could you offload that and focus on areas you have an edge?
 
-###Using Git in teams
+### Using Git in teams
 - A member told us how his team had grown and now was looking to see how best to use Git in a larger team.
 - The common [git-flow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow){:target="_blank"} method was discussed, as well as a [Google variant](https://medium.com/google-developer-experts/automating-android-development-6daca3a98396#.3bqwfvbrf){:taget="_blank"}, both using branches and pull requests.
 - But - is all necessary?  Why not just have people push to master?  Would promote small commits and force.  Although this does depend on a good TDD and CI structure also.
 - Ultimately it's about what works for your team.
 
-###Popular vs Open
+### Popular vs Open
 - With the popularity of tools such as Slack, what is the future of the incumbent open alternatives?  e.g. IRC?
 - When making a choice of a tool, how should one choose?
 - 'Go where the users are' - don't try to force another tool on individuals if they already are familiar with one.
 - With regards to Slack, should it be provided to clients?  Depends on how well you set the expectations at the beginning - are you able to respond in a more real time fashion?
 - Of course, maybe that something is 'open' is a red herring - do the users care about that?
 
-###Customers vs clients
+### Customers vs clients
 - Finally we discussed the difference between customers and clients, and how to transition one to another.
 - Clients were defined as those who pay exclusively for the output and as such get direct control on what that is.
 - Customers on the other hand were consumers of a product, and have influence on a roadmap but not exclusively.
