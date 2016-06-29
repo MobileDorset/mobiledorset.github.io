@@ -28,17 +28,23 @@ layout: default
 </div>
 <!-- Call to action -->
 <section class="call">
+  {% assign current_datetime_milliseconds = 'now' | date: '%s' %}
+
   {% for event in events %}
-    <div class="container">
-        <h1>{{event.datetime}}</h1>
-        <h1><small>{{event.location}}</small></h1>
-        <p class="text-center">
-            <a href="{{event.url}}" class="btn btn-default btn-lg center">
-            <span class="logo-eventbrite"></span>
-            <span>Grab Your Free "{{event.name}}" Ticket</span>
-            </a>
-        </p>
-    </div>
+    {% assign event_datetime_milliseconds = event.datetime | date: '%s' %}
+    {% if event_datetime_milliseconds >= current_datetime_milliseconds %}
+        <div class="container">
+            <h1>{{event.datetime}}</h1>
+            <h1><small>{{event.location}}</small></h1>
+            <p class="text-center">
+                <a href="{{event.url}}" class="btn btn-default btn-lg center">
+                <span class="logo-eventbrite"></span>
+                <span>Grab Your Free "{{event.name}}" Ticket</span>
+                </a>
+            </p>
+        </div>
+        {% break %}
+    {% endif %}
   {% endfor %}
 </section>
 <!-- Questions -->
